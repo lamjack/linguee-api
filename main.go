@@ -15,7 +15,7 @@ import (
 var c cache.Cache
 
 func redirect(w http.ResponseWriter, r *http.Request) {
-	http.Redirect(w, r, "https://cimili.com", http.StatusFound)
+	http.Redirect(w, r, "https://github.com/imankulov/linguee-api", http.StatusFound)
 }
 
 func api(w http.ResponseWriter, r *http.Request) {
@@ -80,7 +80,7 @@ func WriteJSON(w http.ResponseWriter, obj interface{}, status int) {
 	SetCORSHeaders(w)
 	w.Header().Set("Content-Type", "application/json")
 	w.WriteHeader(status)
-	_, _ = w.Write(buffer)
+	w.Write(buffer)
 }
 
 // SetCORSHeaders sets CORS headers
