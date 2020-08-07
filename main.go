@@ -15,7 +15,7 @@ import (
 var c cache.Cache
 
 func redirect(w http.ResponseWriter, r *http.Request) {
-	http.Redirect(w, r, "https://github.com/imankulov/linguee-api", http.StatusFound)
+	http.Redirect(w, r, "https://cimili.com", http.StatusFound)
 }
 
 func api(w http.ResponseWriter, r *http.Request) {
