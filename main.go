@@ -66,8 +66,7 @@ func main() {
 	if port == "" {
 		port = "8000"
 	}
-	http.ListenAndServe(fmt.Sprintf(":%s", port), nil)
-
+	_ = http.ListenAndServe(fmt.Sprintf(":%s", port), nil)
 }
 
 // WriteJSON writes object representation in JSON to HTTP.
@@ -81,7 +80,7 @@ func WriteJSON(w http.ResponseWriter, obj interface{}, status int) {
 	SetCORSHeaders(w)
 	w.Header().Set("Content-Type", "application/json")
 	w.WriteHeader(status)
-	w.Write(buffer)
+	_, _ = w.Write(buffer)
 }
 
 // SetCORSHeaders sets CORS headers

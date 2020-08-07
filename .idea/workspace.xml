@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f0ac79b0-06b2-48a2-84d2-ba6748de7fce" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/main.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/golang.org/x/net/html/atom/gen.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/golang.org/x/text/encoding/charmap/maketables.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/golang.org/x/text/encoding/htmlindex/gen.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/golang.org/x/text/encoding/internal/identifier/gen.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/golang.org/x/text/encoding/japanese/maketables.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/golang.org/x/text/encoding/korean/maketables.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/golang.org/x/text/encoding/simplifiedchinese/maketables.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/golang.org/x/text/encoding/traditionalchinese/maketables.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/golang.org/x/text/language/gen_common.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/golang.org/x/text/language/gen_index.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/golang.org/x/text/language/maketables.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/vendor.json" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="GOROOT" path="/usr/local/Cellar/go/1.14.5/libexec" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GoLibraries">
+    <option name="indexEntireGoPath" value="false" />
+  </component>
+  <component name="ProjectId" id="1fkporakTKnnEBHvGqFvMGXkgIg" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="configurable.Global.GOPATH.is.expanded" value="true" />
+    <property name="configurable.Module.GOPATH.is.expanded" value="false" />
+    <property name="configurable.Project.GOPATH.is.expanded" value="true" />
+    <property name="go.import.settings.migrated" value="true" />
+    <property name="go.sdk.automatically.set" value="true" />
+    <property name="go.tried.to.enable.integration.vgo.integrator" value="true" />
+    <property name="go.vendoring.notification.had.been.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="go.sdk" />
+  </component>
+  <component name="RunManager">
+    <configuration name="go build github.com/imankulov/linguee-api" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="linguee-api" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="PACKAGE" />
+      <filePath value="$PROJECT_DIR$/main.go" />
+      <package value="github.com/imankulov/linguee-api" />
+      <directory value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Go Build.go build github.com/imankulov/linguee-api" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VgoProject">
+    <integration-enabled>true</integration-enabled>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="807" y="388" key="#Go_Modules" timestamp="1596772234481">
+      <screen x="37" y="23" width="1883" height="1057" />
+    </state>
+    <state x="807" y="388" key="#Go_Modules/37.23.1883.1057@37.23.1883.1057" timestamp="1596772234481" />
+    <state width="1417" height="271" key="GridCell.Tab.0.bottom" timestamp="1596772492275">
+      <screen x="37" y="23" width="1883" height="1057" />
+    </state>
+    <state width="1417" height="271" key="GridCell.Tab.0.bottom/37.23.1883.1057@37.23.1883.1057" timestamp="1596772492275" />
+    <state width="1417" height="271" key="GridCell.Tab.0.center" timestamp="1596772492274">
+      <screen x="37" y="23" width="1883" height="1057" />
+    </state>
+    <state width="1417" height="271" key="GridCell.Tab.0.center/37.23.1883.1057@37.23.1883.1057" timestamp="1596772492274" />
+    <state width="1417" height="271" key="GridCell.Tab.0.left" timestamp="1596772492274">
+      <screen x="37" y="23" width="1883" height="1057" />
+    </state>
+    <state width="1417" height="271" key="GridCell.Tab.0.left/37.23.1883.1057@37.23.1883.1057" timestamp="1596772492274" />
+    <state width="1417" height="271" key="GridCell.Tab.0.right" timestamp="1596772492275">
+      <screen x="37" y="23" width="1883" height="1057" />
+    </state>
+    <state width="1417" height="271" key="GridCell.Tab.0.right/37.23.1883.1057@37.23.1883.1057" timestamp="1596772492275" />
+    <state x="509" y="187" key="SettingsEditor" timestamp="1596772264143">
+      <screen x="37" y="23" width="1883" height="1057" />
+    </state>
+    <state x="509" y="187" key="SettingsEditor/37.23.1883.1057@37.23.1883.1057" timestamp="1596772264143" />
+  </component>
+</project>
