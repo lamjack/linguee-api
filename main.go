@@ -14,10 +14,6 @@ import (
 
 var c cache.Cache
 
-func redirect(w http.ResponseWriter, r *http.Request) {
-	http.Redirect(w, r, "https://github.com/imankulov/linguee-api", http.StatusFound)
-}
-
 func api(w http.ResponseWriter, r *http.Request) {
 	queryString := r.URL.Query()
 	q := queryString.Get("q")
@@ -60,7 +56,6 @@ func api(w http.ResponseWriter, r *http.Request) {
 }
 
 func main() {
-	http.HandleFunc("/", redirect)
 	http.HandleFunc("/api", api)
 	port := os.Getenv("PORT")
 	if port == "" {
