@@ -1,6 +1,9 @@
 FROM golang:alpine AS builder
 WORKDIR /app
 
+ENV GO111MODULE on
+ENV GOPROXY https://goproxy.io
+
 RUN apk add --no-cache git make
 COPY go.mod go.sum ./
 RUN go mod download
