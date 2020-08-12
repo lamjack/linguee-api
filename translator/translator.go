@@ -63,7 +63,7 @@ func (t *Translator) Translate(q, srcLang, dstLang string, guessDirection bool, 
 		return nil, err
 	}
 
-	lingueeURL := fmt.Sprintf("http://www.linguee.com/%s-%s/search?query=%s&ajax=1",
+	lingueeURL := fmt.Sprintf("https://www.linguee.com/%s-%s/search?query=%s&ajax=1",
 		srcLangPair.name,
 		dstLangPair.name,
 		url.QueryEscape(q),

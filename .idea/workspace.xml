@@ -3,14 +3,14 @@
   <component name="ChangeListManager">
     <list default="true" id="f0ac79b0-06b2-48a2-84d2-ba6748de7fce" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/main.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/translator/translator.go" beforeDir="false" afterPath="$PROJECT_DIR$/translator/translator.go" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="GOROOT" path="/usr/local/Cellar/go/1.14.5/libexec" />
+  <component name="GOROOT" path="/usr/local/Cellar/go/1.14.6/libexec" />
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
@@ -59,6 +59,10 @@
     <integration-enabled>true</integration-enabled>
   </component>
   <component name="WindowStateProjectService">
+    <state x="799" y="485" key="#GOROOT" timestamp="1597224676438">
+      <screen x="37" y="23" width="1883" height="1057" />
+    </state>
+    <state x="799" y="485" key="#GOROOT/37.23.1883.1057@37.23.1883.1057" timestamp="1597224676438" />
     <state x="807" y="388" key="#Go_Modules" timestamp="1596772234481">
       <screen x="37" y="23" width="1883" height="1057" />
     </state>
